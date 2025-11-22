@@ -1,7 +1,0 @@
-README.md
-Linux_IAM_Final_Project_Abhay_Raj.pdf
-scripts/create_users.sh
-scripts/fix_misconfigs.sh
-examples/sudoers_example
-examples/audit_rules.rules
-evidence/*
